@@ -1,0 +1,106 @@
+{
+    "overview": [
+        {
+            "id": 1,
+            "username": "@nathanf",
+            "network": "Facebook",
+            "count": 1987,
+            "type": "Followers",
+            "today": 12,
+            "isUp": true
+        },
+        {
+            "id": 2,
+            "username": "@nathanf",
+            "network": "Twitter",
+            "count": 1044,
+            "type": "Followers",
+            "today": 99,
+            "isUp": true
+        },
+        {
+            "id": 3,
+            "username": "@realnathanf",
+            "network": "Instagram",
+            "count": 11000,
+            "type": "Followers",
+            "today": 1099,
+            "isUp": true
+        },
+        {
+            "id": 4,
+            "username": "Nathan F.",
+            "network": "YouTube",
+            "count": 8239,
+            "type": "Subscribers",
+            "today": 144,
+            "isUp": false
+        }
+    ],
+    "overview-today": [
+    {
+      "id": 1,
+      "network": "Facebook",
+      "statsType": "Page Views",
+      "stats": 87,
+      "porcentage": 3,
+      "isUp": true
+    },
+    {
+      "id":2,
+      "network": "Facebook",
+      "statsType": "Likes",
+      "stats": 52,
+      "porcentage": 2,
+      "isUp": false
+    },
+    {
+      "id": 3,
+      "network": "Instagram",
+      "statsType": "Likes",
+      "stats": 5462,
+      "porcentage": 2257,
+      "isUp": true
+    },
+    {
+      "id": 4,
+      "network": "Instagram",
+      "statsType": "Profile Views",
+      "stats": 52000,
+      "porcentage": 1357,
+      "isUp": true
+    },
+    {
+      "id": 5,
+      "network": "Twitter",
+      "statsType": "Retweets",
+      "stats": 117,
+      "porcentage": 303,
+      "isUp": true
+    },
+    {
+      "id": 6,
+      "network": "Twitter",
+      "statsType": "Likes",
+      "stats": 507,
+      "porcentage": 553,
+      "isUp": true
+    },
+    {
+      "id": 7,
+      "network": "YouTube",
+      "statsType": "Likes",
+      "stats": 107,
+      "porcentage": 19,
+      "isUp": false
+    },
+    {
+      "id": 8,
+      "network": "YouTube",
+      "statsType": "Total Views",
+      "stats": 1407,
+      "porcentage": 12,
+      "isUp": false
+    }
+  ]
+}
